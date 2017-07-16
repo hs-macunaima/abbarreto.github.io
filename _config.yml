@@ -11,7 +11,7 @@ email: adrianobraga@ymail.com
 description: > # this means to ignore newlines until "baseurl:"
   Página pessoal de Adriano Braga Barreto
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://github.com/abbarreto/abbarreto-blog" # the base hostname & protocol for your site
 twitter_username: adrianoswidorf
 github_username:  abbarreto
 
