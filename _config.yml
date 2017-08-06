@@ -18,3 +18,4 @@ github_username:  abbarreto
 # Build settings
 markdown: kramdown
 permalink: /:title
+mathjax: true
