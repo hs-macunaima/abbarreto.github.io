@@ -82,8 +82,8 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Caxias do Sul/RS"
-  employer         : "Professor/Físico"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "IFRS"
+  googlescholar    : "https://scholar.google.com.br/citations?user=oXUNHtoAAAAJ&hl=pt-BR"
   email            : "adriano.barreto@caxias.ifrs.edu.br"
   uri              :
   bitbucket        :
@@ -95,14 +95,14 @@ author:
   github           : "abbarreto"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "adrianoswidorf"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7220-0982"
+  orcid            : "0000-0001-7220-0982"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "adrianoswidorf"
   tumblr           :
   twitter          : "adrianoswidorf"
   vine             :
