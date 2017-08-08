@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Adriano B. Barreto"
+title                    : "A.B. Barreto's page"
 title_separator          : "-"
 name                     : &name "Adriano Braga Barreto"
 description              : &description "site pessoal de Adriano Braga Barreto"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Adriano B. Barreto"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Caxias do Sul/RS"
@@ -98,11 +98,11 @@ author:
   instagram        : "adrianoswidorf"
   lastfm           :
   linkedin         :
-  orcid            : "0000-0001-7220-0982"
+  orcid            : "http://orcid.org/0000-0001-7220-0982"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "adrianoswidorf"
+  steam            : "http://steamcommunity.com/profiles/76561198258048229/"
   tumblr           :
   twitter          : "adrianoswidorf"
   vine             :
