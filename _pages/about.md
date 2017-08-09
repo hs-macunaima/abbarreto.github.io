@@ -17,4 +17,5 @@ redirect_from:
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
+  {% include post-cards.html %}
 {% endfor %}
