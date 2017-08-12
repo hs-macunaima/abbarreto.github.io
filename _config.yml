@@ -6,16 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "pt-BR"
-title                    : "A.B. Barreto's page"
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Adriano Braga Barreto"
-description              : &description "site pessoal de Adriano Braga Barreto"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://abbarreto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abbarreto/abbarreto.github.io"
-teaser                   : "teaser-500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adriano B. Barreto"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Caxias do Sul/RS"
-  employer         : "IFRS"
-  googlescholar    : "https://scholar.google.com.br/citations?user=oXUNHtoAAAAJ&hl=pt-BR"
-  email            : "adriano.barreto@caxias.ifrs.edu.br"
+  location         : "Location"
+  employer         :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "abbarreto"
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : "adrianoswidorf"
+  instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7220-0982"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : 
+  steam            :
   tumblr           :
-  twitter          : "adrianoswidorf"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Sao_Paulo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
