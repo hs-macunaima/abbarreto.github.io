@@ -148,15 +148,16 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+mathjax: true
 
 
 # Markdown Processing
-kramdown:
+kramdown: 
   input: GFM
   hard_wrap: false
   auto_ids: true
