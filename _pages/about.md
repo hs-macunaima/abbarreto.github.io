@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: site.title
+title: "Título da página"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
