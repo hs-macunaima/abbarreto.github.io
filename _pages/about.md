@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Título da página"
+title: "Adriano B. Barreto"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

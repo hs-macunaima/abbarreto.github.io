@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "A. B. Barreto"
+title                    : "Inicial"
 title_separator          : "-"
 name                     : &name "Adriano Braga Barreto"
-description              : &description "personal description"
+description              : &description "Página pessoal do Professor Dr. Adriano Braga Barreto"
 url                      : https://abbarreto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abbarreto/abbarreto.github.io"
@@ -19,8 +19,8 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus: "adrianobragabarreto"
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Adriano B. Barreto"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Professor no IFRS, Campus Caxias do Sul"
+  location         : "Caxias do Sul/RS - Brasil"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com.br/citations?user=oXUNHtoAAAAJ&hl=pt-BR"
+  email            : "adriano.barreto@caxias.ifrs.edu.br"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "abbarreto"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "adrianoswidorf"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-7220-0982"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "adrianoswidorf"
   vine             :
   weibo            :
   xing             :
