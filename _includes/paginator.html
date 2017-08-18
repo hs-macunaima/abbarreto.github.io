@@ -6,15 +6,15 @@
     {% comment %} Link for previous page {% endcomment %}
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-        <li><a href="{{ base_path }}/">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
+        <li><a href="{{ base_path }}/">{{ site.data.ui-text[site.locale].pagination_previous | default: "Anterior" }}</a></li>
       {% else %}
-        <li><a href="{{ base_path }}/page{{ paginator.previous_page }}/">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
+        <li><a href="{{ base_path }}/page{{ paginator.previous_page }}/">{{ site.data.ui-text[site.locale].pagination_previous | default: "Anterior" }}</a></li>
       {% endif %}
     {% else %}
-      <li><a href="#" class="disabled"><span aria-hidden="true">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</span></a></li>
+      <li><a href="#" class="disabled"><span aria-hidden="true">{{ site.data.ui-text[site.locale].pagination_previous | default: "Anterior" }}</span></a></li>
     {% endif %}
 
-    {% comment %} First page {% endcomment %}
+    {% comment %} Primeira página {% endcomment %}
     {% if paginator.page == 1 %}
       <li><a href="#" class="disabled current">1</a></li>
     {% else %}
