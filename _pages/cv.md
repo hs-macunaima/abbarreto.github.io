@@ -11,13 +11,13 @@ redirect_from:
 
 Formação
 ======
-* 2009: Licenciatura Plena em Física pelo IFCE
-* 2012: Mestrado em Física e Matemática Aplicada pela UNIFEI
-* 2016: Doutorado em Física pela UFPB
+* 2009: Licenciatura Plena em Física pelo [IFCE](http://ifce.edu.br/)
+* 2012: Mestrado em Física e Matemática Aplicada pela [UNIFEI](https://www.unifei.edu.br/)
+* 2016: Doutorado em Física pela [UFPB](http://www.ufpb.br/)
 
 Posição Atual
 ======
-* Professor Efetivo no IFRS -- Campus Caxias do Sul
+* Professor Efetivo no [IFRS](http://ifrs.edu.br/) -- Campus [Caxias do Sul](http://www.caxias.ifrs.edu.br)
   
 Áreas de Interesse
 ======
