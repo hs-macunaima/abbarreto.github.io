@@ -15,17 +15,13 @@ Formação
 * Mestrado em Física e Matemática Aplicada pela UNIFEI, 2012
 * Doutorado em Física pela UFPB, 2016
 
-Experiência profissional
+Experiência Docente
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [2014 -- 2016] UFPB: Professor Substituto
+  * Física Geral I
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [2017 -- Atualmente]: Professor Efetivo
+  * ...
   
 Áreas de Interesse
 ======
