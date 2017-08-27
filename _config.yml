@@ -110,9 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  researchgate     : "Adriano_Barreto"
-
-
+  
 # Reading Files
 include:
   - .htaccess
