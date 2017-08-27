@@ -33,7 +33,3 @@ Posição Atual
   * Fenômenos de Decoerência
 * Teoria Quântica de Campos
   * Aplicações em Matéria Condensada
-
-Currículo Lattes
-======  
-`<link>`: <http://lattes.cnpq.br/3242250540541623>

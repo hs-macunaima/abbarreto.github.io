@@ -115,6 +115,9 @@
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv-square ai-fw" aria-hidden="true"></i> ArXiv</a></li>
       {% endif %}
+      {% if author.lattes %}
+        <li><a href="{{ author.lattes }}"><i class="ai ai-acclaim-square ai-fw" aria-hidden="true"></i> Lattes</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
