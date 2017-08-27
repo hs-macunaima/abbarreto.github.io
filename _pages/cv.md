@@ -11,11 +11,11 @@ redirect_from:
 
 Formação
 ======
-* Licenciatura Plena em Física pelo IFCE, 2009
-* Mestrado em Física e Matemática Aplicada pela UNIFEI, 2012
-* Doutorado em Física pela UFPB, 2016
+* 2009: Licenciatura Plena em Física pelo IFCE
+* 2012: Mestrado em Física e Matemática Aplicada pela UNIFEI
+* 2016: Doutorado em Física pela UFPB
 
-EPosição Atual
+Posição Atual
 ======
 * Professor Efetivo no IFRS -- Campus Caxias do Sul
   
@@ -56,5 +56,7 @@ Orientações
 ======
 * Iniciação Cientifica Júnior
   * Aluno(a) ...
-  
-`<Lattes>`: <http://lattes.cnpq.br/3242250540541623>
+ 
+Currículo Lattes
+======  
+`<link>`: <http://lattes.cnpq.br/3242250540541623>
