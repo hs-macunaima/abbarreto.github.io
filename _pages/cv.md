@@ -33,7 +33,9 @@ Posição Atual
   * Fenômenos de Decoerência
 * Teoria Quântica de Campos
   * Aplicações em Matéria Condensada
-------
+
+~~~~~~~~~~~~~~~~
+
 ![](https://abbarreto.github.io/images/flammarion.jpg)
 > Camille Flammarion, L'atmosphère: météorologie populaire (1888)
 
