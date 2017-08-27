@@ -34,29 +34,6 @@ Posição Atual
 * Teoria Quântica de Campos
   * Aplicações em Matéria Condensada
 
-Publicações
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Palestras
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Disciplinas ministradas
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Orientações
-======
-* Iniciação Cientifica Júnior
-  * Aluno(a) ...
- 
 Currículo Lattes
 ======  
 `<link>`: <http://lattes.cnpq.br/3242250540541623>
