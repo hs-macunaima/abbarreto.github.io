@@ -9,21 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-`<Lattes>`: <http://lattes.cnpq.br/3242250540541623>
-
 Formação
 ======
 * Licenciatura Plena em Física pelo IFCE, 2009
 * Mestrado em Física e Matemática Aplicada pela UNIFEI, 2012
 * Doutorado em Física pela UFPB, 2016
 
-Experiência Docente
+EPosição Atual
 ======
-* [2014 -- 2016] UFPB: Professor Substituto
-  * Física Geral I
-
-* [2017 -- Atualmente]: Professor Efetivo
-  * ...
+* Professor Efetivo no IFRS -- Campus Caxias do Sul
   
 Áreas de Interesse
 ======
@@ -63,3 +57,4 @@ Orientações
 * Iniciação Cientifica Júnior
   * Aluno(a) ...
   
+`<Lattes>`: <http://lattes.cnpq.br/3242250540541623>
