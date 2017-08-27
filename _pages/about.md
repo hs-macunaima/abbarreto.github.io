@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 Página pessoal de Adriano B. Barreto
------------
-********
+====================================
+******
