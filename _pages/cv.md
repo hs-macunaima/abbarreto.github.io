@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formação
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Licenciatura Plena em Física pelo IFCE, 2009
+* Mestrado em Física e Matemática Aplicada pela UNIFEI, 2012
+* Doutorado em Física pela UFPB, 2016
 
-Work experience
+Experiência profissional
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,14 +27,20 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Áreas de Interesse
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Cosmologia
+  * Singularidades cosmológicas
+* Gravitação
+  * Buracos Negros
+  * Ondas Gravitacionais
+  * Terias escalares-tensoriais
+* Informação Quântica
+  * Emaranhamento Quântico
+  * Criptografia Quântica
+  * Fenômenos de Decoerência
+* Teoria Quântica de Campos
+  * Aplicações em Matéria Condensada
 
 Publicações
 ======
@@ -48,12 +54,14 @@ Palestras
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Ensino
+Disciplinas ministradas
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Orientações
 ======
-* Currently signed in to 43 different slack teams
+* Iniciação Cientifica Júnior
+  * Aluno(a) ...
+  
