@@ -10,8 +10,8 @@ main:
   #- title: "Palestras"
   #  url: /talks/    
   
-  - title: "Projetos"
-    url: /projects/
+  #- title: "Projetos"
+  #  url: /projects/
 
   - title: "Publicações"
     url: /publications/   
@@ -20,5 +20,5 @@ main:
     url: /cv/
 
      
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
