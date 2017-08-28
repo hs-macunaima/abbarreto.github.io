@@ -20,5 +20,5 @@ main:
     url: /cv/
 
      
-  #- title: "Guide"
-  #S  url: /markdown/
+  - title: "Guide"
+    url: /markdown/
