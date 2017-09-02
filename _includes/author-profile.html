@@ -32,43 +32,43 @@
         <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.lattes %}
-        <li><a href="{{ author.lattes }}"><i class="ai ai-acclaim-square ai-fw" aria-hidden="true"></i> Lattes</a></li>
+        <li><a href="{{ author.lattes }}" target="_blank"><i class="ai ai-acclaim-square ai-fw" aria-hidden="true"></i> Lattes</a></li>
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.arxiv %}
-        <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv-square ai-fw" aria-hidden="true"></i> ArXiv</a></li>
+        <li><a href="{{ author.arxiv }}" target="_blank"><i class="ai ai-arxiv-square ai-fw" aria-hidden="true"></i> ArXiv</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        <li><a href="https://twitter.com/{{ author.twitter }}" target="_blank"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
       {% if author.facebook %}
-        <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        <li><a href="https://www.facebook.com/{{ author.facebook }}" target="_blank"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
       {% if author.google_plus %}
-        <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+</a></li>
+        <li><a href="https://plus.google.com/+{{ author.google_plus }}" target="_blank"><i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
       {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fa fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
       {% endif %}
       {% if author.instagram %}
-        <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        <li><a href="https://instagram.com/{{ author.instagram }}" target="_blank"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
       {% endif %}
       {% if author.tumblr %}
-        <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fa fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
+        <li><a href="https://{{ author.tumblr }}.tumblr.com" target="_blank"><i class="fa fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
       {% endif %}
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        <li><a href="https://github.com/{{ author.github }}" target="_blank"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -89,7 +89,7 @@
         <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fa fa-fw fa-steam-square" aria-hidden="true"></i> Steam</a></li>
       {% endif %}
       {% if author.youtube %}
-        <li><a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
+        <li><a href="https://www.youtube.com/user/{{ author.youtube }}" target="_blank"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
       {% endif %}
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fa fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
@@ -107,16 +107,16 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a href="{{ author.orcid }}" target="_blank"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.researchgate %}
-        <li><a href="https://www.researchgate.net/profile/{{ author.researchgate }}"><i class="ai ai-researchgate-square ai-fw" aria-hidden="true"></i> ResearchGate</a></li>
+        <li><a href="https://www.researchgate.net/profile/{{ author.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-fw" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
     </ul>
   </div>
