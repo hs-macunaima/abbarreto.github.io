@@ -39,7 +39,7 @@
         {% elsif post.collection == 'publications' %}
           <p>Publicado em <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'posts' %}
-          <p>Por <i>{{ post.author }}</i> em {{ post.date | default: "1900-01-01" | date: "%D/%M" }} </p>
+          <p>Por <i>{{ post.author }}</i> em {{ post.date | default: "1900-01-01" | date: "%D / %M" }} </p>
         {% endif %}
 
 
