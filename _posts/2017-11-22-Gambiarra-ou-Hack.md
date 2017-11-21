@@ -1,6 +1,6 @@
 ---
 title: 'gambiarra ou Hack?'
-date: 2017-011-21
+date: 2017-11-22
 permalink: /posts/2017/11/Gambiarra-ou-Hack/
 tags:
   - Ensino
