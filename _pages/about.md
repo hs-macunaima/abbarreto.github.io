@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /year-archive/
 title: ""
 excerpt: "About me"
 author_profile: true
@@ -11,7 +11,6 @@ redirect_from:
 Página pessoal de Adriano B. Barreto
 ====================================
 ******
-
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
