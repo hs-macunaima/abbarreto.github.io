@@ -1,7 +1,10 @@
 ---
 title: 'Gambiarra ou Hack?'
+collection: posts
+author: Adriano
 date: 2017-11-22
 permalink: /posts/2017/11/Gambiarra-ou-Hack/
+excerpt: 'In order to treat quantum cosmology in the framework of Weyl spacetimes we take the first step of extending the Arnowitt-Deser-Misner formalism to Weyl geometry. We then obtain an expression of the curvature tensor in terms of spatial quantities by splitting spacetime in (3+l)-dimensional form. We next write the Lagrangian of the gravitation field based in Weyl-type gravity theory. We extend the general relativistic formalism in such a way that it can be applied to investigate the quantum cosmology of models whose spacetimes are endowed with a Weyl geometrical structure.'
 tags:
   - Ensino
   - Ciências
