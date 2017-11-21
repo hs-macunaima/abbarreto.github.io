@@ -28,6 +28,7 @@ layout: default
                   
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>    
+        {% endif %}
              
         {% if page.citation and page.arxivurl %}
           <p>{{ page.citation }} <br /><a href="{{ page.arxivurl }}"><i class="ai ai-open-access-square ai-fw"></i><u>{{ page.arxivurl }}</u></a></p>
